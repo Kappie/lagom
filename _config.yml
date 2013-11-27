@@ -1,13 +1,13 @@
 # General Jekyll Config
 pygments: true
-url: http://example.com
+url: http://kapteijns.org
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
 # Theme customization - please change from the defaults!
 theme:
   # Color for top bar, links, etc
-  highlight_color: '#193441'
+  highlight_color: '#65704A'
 
   # Profile links on the left sidebar, leave blank to ignore
   social:

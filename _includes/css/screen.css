@@ -9,15 +9,15 @@ html, body {
 
 body {
   font-size: 16px;
-  background-color: white;
-  color: #222222;
+  background-color: #FCFFF5;
+  color: #193441;
   line-height: 24px;
   margin: 0;
   border-top: 7px solid {{ site.theme.highlight_color }};
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #181818;
+  color: #193441;
   font-family: "open sans", sans-serif;
   font-weight: 600;
 }
@@ -103,8 +103,8 @@ ul.posts span {
   overflow: hidden;
 }
 
-nav h1, nav h2 {
-  text-align: center;
+nav h1 {
+  
 }
 
 nav hr {
@@ -160,7 +160,7 @@ nav hr {
   border-left: 1px solid #DDD;
   padding-left: 40px;
   padding-top: 25px;
-  min-height: 400px;
+  min-height: 800px;
 }
 
 .footer {
@@ -183,8 +183,9 @@ nav hr {
   color: {{ site.theme.highlight_color }};
 }
 
-#logo {
+#geert {
   margin-bottom: 25px;
+  width: 220px;
 }
 
 #stalker {
