@@ -110,7 +110,7 @@ nav h1 {
 nav hr {
   margin-top: 10px;
   margin-bottom: 15px;
-  border: dotted #ddd;
+  border: dotted #BDBFB8;
   border-width: 1px 0 0;
 }
 
@@ -120,7 +120,7 @@ nav hr {
 }
 
 #post pre {
-  border: 1px solid #ddd;
+  border: 1px solid #BDBFB8;
   background-color: #eef;
   padding: 0 .4em;
   margin-bottom: 20px !important;
@@ -132,7 +132,7 @@ nav hr {
 }
 
 #post code {
-  border: 1px solid #ddd;
+  border: 1px solid #BDBFB8;
   background-color: #eef;
   font-size: 85%;
   padding: 0 .2em;
@@ -157,7 +157,7 @@ nav hr {
 
 .content {
   font: 400 16px/22px "open sans", sans-serif;
-  border-left: 1px solid #DDD;
+  border-left: 1px solid #BDBFB8;
   padding-left: 40px;
   padding-top: 25px;
   min-height: 800px;
