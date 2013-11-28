@@ -25,7 +25,6 @@ theme:
   # "Hi, I'm _______"
   name: Geert Kapteijns
   email: ghkapteijns@gmail.com
-  tagline: "weak opinions, strongly held"
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
