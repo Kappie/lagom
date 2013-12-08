@@ -75,7 +75,7 @@ img {
 ul.posts {
   margin-top: 0;
   list-style-type: none;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 ul.posts li {
@@ -91,6 +91,10 @@ ul.posts span {
   font-size:14px;
 }
 
+ul.posts a {
+  color: #193441;
+}
+
 .meta {
   color: #aaa;
   margin: 0 0 10px 0;
@@ -103,9 +107,6 @@ ul.posts span {
   overflow: hidden;
 }
 
-nav h1 {
-  
-}
 
 nav hr {
   margin-top: 10px;
@@ -170,7 +171,7 @@ nav hr {
 .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #EEE;
+  /*border-top: 4px solid #EEE;*/
   overflow: hidden;
 }
 
@@ -186,6 +187,7 @@ nav hr {
 #geert {
   margin-bottom: 25px;
   width: 220px;
+  text-align: left;
 }
 
 #stalker {
