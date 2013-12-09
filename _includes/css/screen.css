@@ -72,6 +72,10 @@ img {
   margin-right: auto;
 }
 
+iframe {
+  padding: 10px 0px 30px 0px;
+}
+
 ul.posts {
   margin-top: 0;
   list-style-type: none;
@@ -120,7 +124,7 @@ nav hr {
   font-size: 13px;
 }
 
-#post pre {
+pre {
   border: 1px solid #BDBFB8;
   background-color: #eef;
   padding: 0 .4em;
@@ -132,14 +136,14 @@ nav hr {
   margin-left: 1.35em;
 }
 
-#post code {
+code {
   border: 1px solid #BDBFB8;
   background-color: #eef;
   font-size: 85%;
   padding: 0 .2em;
 }
 
-#post pre code {
+pre code {
   border: none;
 }
 
