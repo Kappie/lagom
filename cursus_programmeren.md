@@ -28,6 +28,7 @@ print "Doe mee aan de cursus!"
 Viel dat mee?
 
 {% highlight ruby %}
+
 print "Schrijf je in bij Jaap de Jonge."
 print "Of mail mij: ghkapteijns@gmail.com."
 
